@@ -1,0 +1,14 @@
+django==4.1
+djoser==2.1.0
+django-colorfield==0.9.0
+djangorestframework==3.14
+markdown==3.3
+django-filter==22.1
+Pillow==9.5.0
+python-dotenv==0.21.1
+django-colorfield==0.9.0
+psycopg2-binary==2.9.6
+gunicorn==20.0.4
+drf-yasg==1.21.6
+django-cors-headers==4.2.0
+-e git+https://github.com/muepsilon/elasticemail-django@1dad468041bf0e4e9bf9ac8260fcbf95c8c58a22#egg=elasticemail_django
