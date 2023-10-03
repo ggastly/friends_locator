@@ -10,6 +10,9 @@ https://flap.acceleratorpracticum.ru/
 
 Web application for finding friends on the map. Here people can search and add new friends, share their geolocation and see the location of a friend, gather for fun meetings and have a great time.
 
+Project appearance:
+
+![preview](preview_project/preview.png)
 
 Used technologies:
 -
